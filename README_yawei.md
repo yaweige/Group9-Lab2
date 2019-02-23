@@ -2,9 +2,10 @@
 title: "lab2_yawei"
 author: "Yawei Ge"
 date: ""
-output: 
-       html_document:
+output:
+      html_document:
         keep_md: true
+        
 ---
 
 
@@ -18,6 +19,10 @@ library(ggspatial)
 
 theme_set(theme_bw())
 ```
+
+# Link to github
+
+<https://github.com/brlaw17/Group9-Lab2>
 
 # Middle earth
 

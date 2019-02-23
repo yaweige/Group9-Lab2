@@ -4,7 +4,9 @@ author: "Yawei Ge"
 date: ""
 output: 
        html_document:
-        keep_md: true
+       mode: selfcontained
+       keep_md: true
+        
 ---
 
 ```{r setup, include=FALSE}
@@ -20,6 +22,9 @@ library(ggspatial)
 
 theme_set(theme_bw())
 
+# link 
+
+https://github.com/brlaw17/Group9-Lab2
 ```
 
 # Middle earth
